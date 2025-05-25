@@ -1,20 +1,20 @@
-# arasgungore.github.io
+# pradyumnagr.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://pradyumnagr.github.io/myportfolio/).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/assets/img/projects/portfolio.png" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Pradyumn Agrawal**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@pradyumnagra](https://www.linkedin.com/in/pradyumnagra)
+* GitHub: [@pradyumnagr](https://github.com/pradyumnagr)
